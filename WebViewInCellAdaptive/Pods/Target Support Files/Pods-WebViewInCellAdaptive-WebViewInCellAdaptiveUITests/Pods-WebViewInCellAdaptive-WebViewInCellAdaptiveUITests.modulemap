@@ -1,0 +1,6 @@
+framework module Pods_WebViewInCellAdaptive_WebViewInCellAdaptiveUITests {
+  umbrella header "Pods-WebViewInCellAdaptive-WebViewInCellAdaptiveUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
